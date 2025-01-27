@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nourhan Abdelrhim
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nourhan Abd-El-Rhim
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nourhan
+last_name: Abdelrhim
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of the Witwatersrand, Johannesburg (WIts)
+    url: https://www.wits.ac.za/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Vision
+  - Self Supervised Learning
 
 education:
   - area: PhD Artificial Intelligence
