@@ -3,11 +3,11 @@
 title: Nourhan Abdelrhim
 
 # Name pronunciation (optional)
-name_pronunciation: Nourhan Abd-El-Rhim
+#name_pronunciation: Nourhan Abd-El-Rhim
 
 # Full name (for SEO)
-first_name: Nourhan
-last_name: Abdelrhim
+first_name: N
+last_name: A
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: Master student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of the Witwatersrand, Johannesburg (WIts)
-    url: https://www.wits.ac.za/
+  - name: #University of the Witwatersrand, Johannesburg (WIts)
+    url: #https://www.wits.ac.za/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
